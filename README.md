@@ -2,13 +2,6 @@
 
 Welcome to the Hometeq Smart Home Products E-Commerce Website repository! This project is a web-based prototype of an e-commerce platform for exploring and selecting smart home products. It's designed to showcase web development skills and the ability to create a user-friendly shopping experience.
 
-## Table of Contents
-
-- [Technologies Used](#technologies-used)
-- [Getting Started](#getting-started)
-- [Project Highlights](#project-highlights)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Technologies Used
 
